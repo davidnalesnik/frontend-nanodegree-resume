@@ -140,7 +140,7 @@ work.display = function() {
 var projects = {
     "projects": [
         {
-            "title": "Programming contributor, LilyPond",
+            "title": "Core contributor, LilyPond",
             "dates": "2012 - present",
             "description": "<a class='inline-anchor' href='http://git.savannah.gnu.org/gitweb/?p=lilypond.git&a=search&h=HEAD&st=author&s=David+Nalesnik'>Contributed</a> (Scheme, C++, Texinfo) to the codebase of this open-source music notation application.",
             "images": [
@@ -254,4 +254,4 @@ education.display();
 $('#mapDiv').append(googleMap);
 
 // internationalize button
-$('#main').append(internationalizeButton);
+// $('#main').append(internationalizeButton);
