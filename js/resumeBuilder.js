@@ -19,7 +19,7 @@ var bio = {
         "pianist",
         "composer"
     ],
-    "bioPic": "./images/fry.jpg"
+    "bioPic": "./images/davidnalesnik.jpg"
 };
 
 bio.display = function() {

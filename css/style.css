@@ -10,7 +10,7 @@
     dark blue = #33344e
     blue for links = #1199c3
 
-    gray scale = #000 (black), #333, #999, #fff (white)
+    gray scale = #000 (black), #333, #999, #f3f3f3, #fff (white)
 */
 
 body,
@@ -58,7 +58,7 @@ h3 {
     font-style: italic;
     font-size: 20px;
     line-height: 22px;
-    padding: 20px 0 10px 0;
+    padding: 20px 0 10px;
 }
 
 
@@ -131,7 +131,7 @@ a {
     background-color: #33344e;
 }
 
-/* "Web Developer" in header and "Let's connect" */
+/* "Web Developer" in header; color added elsewhere to h2 */
 .coral-text {
     color: #cca699;
 }
